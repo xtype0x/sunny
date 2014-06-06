@@ -47,3 +47,6 @@ gem 'sync'
 
 # Use debugger
 # gem 'debugger', group: [:development, :test]
+
+# Add JavaScript Runtime for Ubuntu
+gem 'therubyracer'
